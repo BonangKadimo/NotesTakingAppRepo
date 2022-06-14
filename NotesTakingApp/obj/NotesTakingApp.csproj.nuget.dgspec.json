@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mitsubishi\\Documents\\GitHub\\NotesApp\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj": {}
+    "C:\\Users\\franm\\Source\\Repos\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mitsubishi\\Documents\\GitHub\\NotesApp\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj": {
+    "C:\\Users\\franm\\Source\\Repos\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitsubishi\\Documents\\GitHub\\NotesApp\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj",
+        "projectUniqueName": "C:\\Users\\franm\\Source\\Repos\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj",
         "projectName": "NotesTakingApp",
-        "projectPath": "C:\\Users\\Mitsubishi\\Documents\\GitHub\\NotesApp\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj",
-        "packagesPath": "C:\\Users\\Mitsubishi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitsubishi\\Documents\\GitHub\\NotesApp\\NotesTakingAppRepo\\NotesTakingApp\\obj\\",
+        "projectPath": "C:\\Users\\franm\\Source\\Repos\\NotesTakingAppRepo\\NotesTakingApp\\NotesTakingApp.csproj",
+        "packagesPath": "C:\\Users\\franm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franm\\Source\\Repos\\NotesTakingAppRepo\\NotesTakingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mitsubishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
